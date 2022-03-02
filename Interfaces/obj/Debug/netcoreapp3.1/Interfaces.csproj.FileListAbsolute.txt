@@ -12,3 +12,17 @@ C:\Users\nk185185\source\repos\Helloworld\IntroductionToC-Sharp\Interfaces\bin\D
 C:\Users\nk185185\source\repos\Helloworld\IntroductionToC-Sharp\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
 C:\Users\nk185185\source\repos\Helloworld\IntroductionToC-Sharp\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
 C:\Users\nk185185\source\repos\Helloworld\IntroductionToC-Sharp\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.exe
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.AssemblyReference.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache

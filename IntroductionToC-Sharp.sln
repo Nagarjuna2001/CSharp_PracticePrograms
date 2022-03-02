@@ -35,9 +35,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortingUsingComparer", "Sor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortingComplexTypes", "SortingComplexTypes\SortingComplexTypes.csproj", "{AEC0C2F6-A3F4-4E46-96C8-7673CB7A27BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingUsingComparisionDelegate", "SortingUsingComparisionDelegate\SortingUsingComparisionDelegate.csproj", "{78675D5E-5FAA-4D70-BC1D-15D6B198E572}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortingUsingComparisionDelegate", "SortingUsingComparisionDelegate\SortingUsingComparisionDelegate.csproj", "{78675D5E-5FAA-4D70-BC1D-15D6B198E572}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{B6303489-03E0-44D8-B611-A729780412FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{B6303489-03E0-44D8-B611-A729780412FD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodHiding", "..\MethodHiding\MethodHiding\MethodHiding.csproj", "{AE922569-BF65-4672-9150-7644E91ACA22}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "..\Arrays\Arrays\Arrays.csproj", "{2FF6C0A6-5FC4-46E0-AEC6-2016965C1897}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +121,14 @@ Global
 		{B6303489-03E0-44D8-B611-A729780412FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6303489-03E0-44D8-B611-A729780412FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6303489-03E0-44D8-B611-A729780412FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE922569-BF65-4672-9150-7644E91ACA22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE922569-BF65-4672-9150-7644E91ACA22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE922569-BF65-4672-9150-7644E91ACA22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE922569-BF65-4672-9150-7644E91ACA22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FF6C0A6-5FC4-46E0-AEC6-2016965C1897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FF6C0A6-5FC4-46E0-AEC6-2016965C1897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FF6C0A6-5FC4-46E0-AEC6-2016965C1897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FF6C0A6-5FC4-46E0-AEC6-2016965C1897}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

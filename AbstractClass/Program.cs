@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AbstractClass.Inheritance;
+using System;
 
 namespace AbstractClass
 {
@@ -6,7 +7,32 @@ namespace AbstractClass
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            FullTimeEmployee fulltimeEmployee = new FullTimeEmployee()
+            {
+                ID = 101,
+                FirstName = "Steve",
+                LastName = "smith",
+                AnnualSalary = 60000
+            };
+            Console.WriteLine(fulltimeEmployee.GetFullName());
+            Console.WriteLine(fulltimeEmployee.GetMonthlySalary());
+
+            Console.WriteLine("--------------");
+
+            ContractEmployee contractEmployee = new ContractEmployee()
+            {
+                ID = 102,
+                FirstName = "George",
+                LastName = "louis",
+                HourlyPay = 200,
+                TotalHoursWorked = 40
+            };
+            Console.WriteLine(contractEmployee.GetFullName());
+            Console.WriteLine(contractEmployee.GetMonthlySalary());
+
+            //Derived obj = new Derived();
+
+
         }
     }
 }

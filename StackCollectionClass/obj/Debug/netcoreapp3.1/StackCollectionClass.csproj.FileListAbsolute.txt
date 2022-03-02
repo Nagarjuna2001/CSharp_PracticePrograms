@@ -11,3 +11,17 @@ C:\Users\nk185185\source\repos\Helloworld\IntroductionToC-Sharp\StackCollectionC
 C:\Users\nk185185\source\repos\Helloworld\IntroductionToC-Sharp\StackCollectionClass\obj\Debug\netcoreapp3.1\StackCollectionClass.dll
 C:\Users\nk185185\source\repos\Helloworld\IntroductionToC-Sharp\StackCollectionClass\obj\Debug\netcoreapp3.1\StackCollectionClass.pdb
 C:\Users\nk185185\source\repos\Helloworld\IntroductionToC-Sharp\StackCollectionClass\obj\Debug\netcoreapp3.1\StackCollectionClass.genruntimeconfig.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\StackCollectionClass\bin\Debug\netcoreapp3.1\StackCollectionClass.exe
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\StackCollectionClass\bin\Debug\netcoreapp3.1\StackCollectionClass.deps.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\StackCollectionClass\bin\Debug\netcoreapp3.1\StackCollectionClass.runtimeconfig.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\StackCollectionClass\bin\Debug\netcoreapp3.1\StackCollectionClass.runtimeconfig.dev.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\StackCollectionClass\bin\Debug\netcoreapp3.1\StackCollectionClass.dll
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\StackCollectionClass\bin\Debug\netcoreapp3.1\StackCollectionClass.pdb
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\StackCollectionClass\obj\Debug\netcoreapp3.1\StackCollectionClass.csproj.AssemblyReference.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\StackCollectionClass\obj\Debug\netcoreapp3.1\StackCollectionClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\StackCollectionClass\obj\Debug\netcoreapp3.1\StackCollectionClass.AssemblyInfoInputs.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\StackCollectionClass\obj\Debug\netcoreapp3.1\StackCollectionClass.AssemblyInfo.cs
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\StackCollectionClass\obj\Debug\netcoreapp3.1\StackCollectionClass.csproj.CoreCompileInputs.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\StackCollectionClass\obj\Debug\netcoreapp3.1\StackCollectionClass.dll
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\StackCollectionClass\obj\Debug\netcoreapp3.1\StackCollectionClass.pdb
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\StackCollectionClass\obj\Debug\netcoreapp3.1\StackCollectionClass.genruntimeconfig.cache

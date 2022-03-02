@@ -12,3 +12,17 @@ C:\Users\nk185185\source\repos\Helloworld\IntroductionToC-Sharp\Namespaces\obj\D
 C:\Users\nk185185\source\repos\Helloworld\IntroductionToC-Sharp\Namespaces\obj\Debug\netcoreapp3.1\Namespaces.dll
 C:\Users\nk185185\source\repos\Helloworld\IntroductionToC-Sharp\Namespaces\obj\Debug\netcoreapp3.1\Namespaces.pdb
 C:\Users\nk185185\source\repos\Helloworld\IntroductionToC-Sharp\Namespaces\obj\Debug\netcoreapp3.1\Namespaces.genruntimeconfig.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Namespaces\bin\Debug\netcoreapp3.1\Namespaces.exe
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Namespaces\bin\Debug\netcoreapp3.1\Namespaces.deps.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Namespaces\bin\Debug\netcoreapp3.1\Namespaces.runtimeconfig.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Namespaces\bin\Debug\netcoreapp3.1\Namespaces.runtimeconfig.dev.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Namespaces\bin\Debug\netcoreapp3.1\Namespaces.dll
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Namespaces\bin\Debug\netcoreapp3.1\Namespaces.pdb
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Namespaces\obj\Debug\netcoreapp3.1\Namespaces.csproj.AssemblyReference.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Namespaces\obj\Debug\netcoreapp3.1\Namespaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Namespaces\obj\Debug\netcoreapp3.1\Namespaces.AssemblyInfoInputs.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Namespaces\obj\Debug\netcoreapp3.1\Namespaces.AssemblyInfo.cs
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Namespaces\obj\Debug\netcoreapp3.1\Namespaces.csproj.CoreCompileInputs.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Namespaces\obj\Debug\netcoreapp3.1\Namespaces.dll
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Namespaces\obj\Debug\netcoreapp3.1\Namespaces.pdb
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Namespaces\obj\Debug\netcoreapp3.1\Namespaces.genruntimeconfig.cache

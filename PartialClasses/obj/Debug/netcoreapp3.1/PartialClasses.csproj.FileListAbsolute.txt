@@ -11,3 +11,17 @@ C:\Users\nk185185\source\repos\Helloworld\IntroductionToC-Sharp\PartialClasses\b
 C:\Users\nk185185\source\repos\Helloworld\IntroductionToC-Sharp\PartialClasses\obj\Debug\netcoreapp3.1\PartialClasses.dll
 C:\Users\nk185185\source\repos\Helloworld\IntroductionToC-Sharp\PartialClasses\obj\Debug\netcoreapp3.1\PartialClasses.pdb
 C:\Users\nk185185\source\repos\Helloworld\IntroductionToC-Sharp\PartialClasses\obj\Debug\netcoreapp3.1\PartialClasses.genruntimeconfig.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\PartialClasses\bin\Debug\netcoreapp3.1\PartialClasses.exe
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\PartialClasses\bin\Debug\netcoreapp3.1\PartialClasses.deps.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\PartialClasses\bin\Debug\netcoreapp3.1\PartialClasses.runtimeconfig.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\PartialClasses\bin\Debug\netcoreapp3.1\PartialClasses.runtimeconfig.dev.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\PartialClasses\bin\Debug\netcoreapp3.1\PartialClasses.dll
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\PartialClasses\bin\Debug\netcoreapp3.1\PartialClasses.pdb
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\PartialClasses\obj\Debug\netcoreapp3.1\PartialClasses.csproj.AssemblyReference.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\PartialClasses\obj\Debug\netcoreapp3.1\PartialClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\PartialClasses\obj\Debug\netcoreapp3.1\PartialClasses.AssemblyInfoInputs.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\PartialClasses\obj\Debug\netcoreapp3.1\PartialClasses.AssemblyInfo.cs
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\PartialClasses\obj\Debug\netcoreapp3.1\PartialClasses.csproj.CoreCompileInputs.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\PartialClasses\obj\Debug\netcoreapp3.1\PartialClasses.dll
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\PartialClasses\obj\Debug\netcoreapp3.1\PartialClasses.pdb
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\PartialClasses\obj\Debug\netcoreapp3.1\PartialClasses.genruntimeconfig.cache

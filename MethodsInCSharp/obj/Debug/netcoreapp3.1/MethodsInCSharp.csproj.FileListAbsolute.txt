@@ -12,3 +12,17 @@ C:\Users\nk185185\source\repos\Helloworld\IntroductionToC-Sharp\MethodsInCSharp\
 C:\Users\nk185185\source\repos\Helloworld\IntroductionToC-Sharp\MethodsInCSharp\obj\Debug\netcoreapp3.1\MethodsInCSharp.dll
 C:\Users\nk185185\source\repos\Helloworld\IntroductionToC-Sharp\MethodsInCSharp\obj\Debug\netcoreapp3.1\MethodsInCSharp.pdb
 C:\Users\nk185185\source\repos\Helloworld\IntroductionToC-Sharp\MethodsInCSharp\obj\Debug\netcoreapp3.1\MethodsInCSharp.genruntimeconfig.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\MethodsInCSharp\bin\Debug\netcoreapp3.1\MethodsInCSharp.exe
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\MethodsInCSharp\bin\Debug\netcoreapp3.1\MethodsInCSharp.deps.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\MethodsInCSharp\bin\Debug\netcoreapp3.1\MethodsInCSharp.runtimeconfig.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\MethodsInCSharp\bin\Debug\netcoreapp3.1\MethodsInCSharp.runtimeconfig.dev.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\MethodsInCSharp\bin\Debug\netcoreapp3.1\MethodsInCSharp.dll
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\MethodsInCSharp\bin\Debug\netcoreapp3.1\MethodsInCSharp.pdb
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\MethodsInCSharp\obj\Debug\netcoreapp3.1\MethodsInCSharp.csproj.AssemblyReference.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\MethodsInCSharp\obj\Debug\netcoreapp3.1\MethodsInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\MethodsInCSharp\obj\Debug\netcoreapp3.1\MethodsInCSharp.AssemblyInfoInputs.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\MethodsInCSharp\obj\Debug\netcoreapp3.1\MethodsInCSharp.AssemblyInfo.cs
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\MethodsInCSharp\obj\Debug\netcoreapp3.1\MethodsInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\MethodsInCSharp\obj\Debug\netcoreapp3.1\MethodsInCSharp.dll
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\MethodsInCSharp\obj\Debug\netcoreapp3.1\MethodsInCSharp.pdb
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\MethodsInCSharp\obj\Debug\netcoreapp3.1\MethodsInCSharp.genruntimeconfig.cache
