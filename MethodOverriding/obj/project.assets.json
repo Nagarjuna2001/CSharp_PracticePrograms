@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nk185185\\source\\repos\\Helloworld\\IntroductionToC-Sharp\\MethodOverriding\\MethodOverriding.csproj",
+      "projectUniqueName": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\MethodOverriding\\MethodOverriding.csproj",
       "projectName": "MethodOverriding",
-      "projectPath": "C:\\Users\\nk185185\\source\\repos\\Helloworld\\IntroductionToC-Sharp\\MethodOverriding\\MethodOverriding.csproj",
+      "projectPath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\MethodOverriding\\MethodOverriding.csproj",
       "packagesPath": "C:\\Users\\nk185185\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nk185185\\source\\repos\\Helloworld\\IntroductionToC-Sharp\\MethodOverriding\\obj\\",
+      "outputPath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\MethodOverriding\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nk185185\\AppData\\Roaming\\NuGet\\NuGet.Config",

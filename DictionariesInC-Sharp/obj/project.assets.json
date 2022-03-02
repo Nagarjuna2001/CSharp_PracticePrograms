@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nk185185\\source\\repos\\Helloworld\\IntroductionToC-Sharp\\DictionariesInC-Sharp\\DictionariesInC-Sharp.csproj",
+      "projectUniqueName": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\DictionariesInC-Sharp\\DictionariesInC-Sharp.csproj",
       "projectName": "DictionariesInC-Sharp",
-      "projectPath": "C:\\Users\\nk185185\\source\\repos\\Helloworld\\IntroductionToC-Sharp\\DictionariesInC-Sharp\\DictionariesInC-Sharp.csproj",
+      "projectPath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\DictionariesInC-Sharp\\DictionariesInC-Sharp.csproj",
       "packagesPath": "C:\\Users\\nk185185\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nk185185\\source\\repos\\Helloworld\\IntroductionToC-Sharp\\DictionariesInC-Sharp\\obj\\",
+      "outputPath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\DictionariesInC-Sharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nk185185\\AppData\\Roaming\\NuGet\\NuGet.Config",

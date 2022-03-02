@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nk185185\\source\\repos\\Helloworld\\IntroductionToC-Sharp\\PartialClasses\\PartialClasses.csproj",
+      "projectUniqueName": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\PartialClasses\\PartialClasses.csproj",
       "projectName": "PartialClasses",
-      "projectPath": "C:\\Users\\nk185185\\source\\repos\\Helloworld\\IntroductionToC-Sharp\\PartialClasses\\PartialClasses.csproj",
+      "projectPath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\PartialClasses\\PartialClasses.csproj",
       "packagesPath": "C:\\Users\\nk185185\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nk185185\\source\\repos\\Helloworld\\IntroductionToC-Sharp\\PartialClasses\\obj\\",
+      "outputPath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\PartialClasses\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nk185185\\AppData\\Roaming\\NuGet\\NuGet.Config",

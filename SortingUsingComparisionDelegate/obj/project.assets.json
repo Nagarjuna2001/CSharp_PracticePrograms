@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nk185185\\source\\repos\\Helloworld\\IntroductionToC-Sharp\\SortingUsingComparisionDelegate\\SortingUsingComparisionDelegate.csproj",
+      "projectUniqueName": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\SortingUsingComparisionDelegate\\SortingUsingComparisionDelegate.csproj",
       "projectName": "SortingUsingComparisionDelegate",
-      "projectPath": "C:\\Users\\nk185185\\source\\repos\\Helloworld\\IntroductionToC-Sharp\\SortingUsingComparisionDelegate\\SortingUsingComparisionDelegate.csproj",
+      "projectPath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\SortingUsingComparisionDelegate\\SortingUsingComparisionDelegate.csproj",
       "packagesPath": "C:\\Users\\nk185185\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nk185185\\source\\repos\\Helloworld\\IntroductionToC-Sharp\\SortingUsingComparisionDelegate\\obj\\",
+      "outputPath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\SortingUsingComparisionDelegate\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nk185185\\AppData\\Roaming\\NuGet\\NuGet.Config",

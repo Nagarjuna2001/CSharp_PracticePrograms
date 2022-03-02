@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nk185185\\source\\repos\\Helloworld\\IntroductionToC-Sharp\\MethodsInCSharp\\MethodsInCSharp.csproj": {}
+    "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\MethodsInCSharp\\MethodsInCSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nk185185\\source\\repos\\Helloworld\\IntroductionToC-Sharp\\MethodsInCSharp\\MethodsInCSharp.csproj": {
+    "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\MethodsInCSharp\\MethodsInCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nk185185\\source\\repos\\Helloworld\\IntroductionToC-Sharp\\MethodsInCSharp\\MethodsInCSharp.csproj",
+        "projectUniqueName": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\MethodsInCSharp\\MethodsInCSharp.csproj",
         "projectName": "MethodsInCSharp",
-        "projectPath": "C:\\Users\\nk185185\\source\\repos\\Helloworld\\IntroductionToC-Sharp\\MethodsInCSharp\\MethodsInCSharp.csproj",
+        "projectPath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\MethodsInCSharp\\MethodsInCSharp.csproj",
         "packagesPath": "C:\\Users\\nk185185\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nk185185\\source\\repos\\Helloworld\\IntroductionToC-Sharp\\MethodsInCSharp\\obj\\",
+        "outputPath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\MethodsInCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nk185185\\AppData\\Roaming\\NuGet\\NuGet.Config",

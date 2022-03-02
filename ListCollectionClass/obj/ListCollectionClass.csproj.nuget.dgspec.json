@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nk185185\\source\\repos\\Helloworld\\IntroductionToC-Sharp\\ListCollectionClass\\ListCollectionClass.csproj": {}
+    "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\ListCollectionClass\\ListCollectionClass.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nk185185\\source\\repos\\Helloworld\\IntroductionToC-Sharp\\ListCollectionClass\\ListCollectionClass.csproj": {
+    "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\ListCollectionClass\\ListCollectionClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nk185185\\source\\repos\\Helloworld\\IntroductionToC-Sharp\\ListCollectionClass\\ListCollectionClass.csproj",
+        "projectUniqueName": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\ListCollectionClass\\ListCollectionClass.csproj",
         "projectName": "ListCollectionClass",
-        "projectPath": "C:\\Users\\nk185185\\source\\repos\\Helloworld\\IntroductionToC-Sharp\\ListCollectionClass\\ListCollectionClass.csproj",
+        "projectPath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\ListCollectionClass\\ListCollectionClass.csproj",
         "packagesPath": "C:\\Users\\nk185185\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nk185185\\source\\repos\\Helloworld\\IntroductionToC-Sharp\\ListCollectionClass\\obj\\",
+        "outputPath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\ListCollectionClass\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nk185185\\AppData\\Roaming\\NuGet\\NuGet.Config",

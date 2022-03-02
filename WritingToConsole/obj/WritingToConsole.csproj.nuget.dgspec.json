@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nk185185\\source\\repos\\Helloworld\\IntroductionToC-Sharp\\WritingToConsole\\WritingToConsole.csproj": {}
+    "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\WritingToConsole\\WritingToConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nk185185\\source\\repos\\Helloworld\\IntroductionToC-Sharp\\WritingToConsole\\WritingToConsole.csproj": {
+    "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\WritingToConsole\\WritingToConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nk185185\\source\\repos\\Helloworld\\IntroductionToC-Sharp\\WritingToConsole\\WritingToConsole.csproj",
+        "projectUniqueName": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\WritingToConsole\\WritingToConsole.csproj",
         "projectName": "WritingToConsole",
-        "projectPath": "C:\\Users\\nk185185\\source\\repos\\Helloworld\\IntroductionToC-Sharp\\WritingToConsole\\WritingToConsole.csproj",
+        "projectPath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\WritingToConsole\\WritingToConsole.csproj",
         "packagesPath": "C:\\Users\\nk185185\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nk185185\\source\\repos\\Helloworld\\IntroductionToC-Sharp\\WritingToConsole\\obj\\",
+        "outputPath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\WritingToConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nk185185\\AppData\\Roaming\\NuGet\\NuGet.Config",

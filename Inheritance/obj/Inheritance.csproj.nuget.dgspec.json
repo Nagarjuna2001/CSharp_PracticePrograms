@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nk185185\\source\\repos\\Helloworld\\IntroductionToC-Sharp\\Inheritance\\Inheritance.csproj": {}
+    "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\Inheritance\\Inheritance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nk185185\\source\\repos\\Helloworld\\IntroductionToC-Sharp\\Inheritance\\Inheritance.csproj": {
+    "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\Inheritance\\Inheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nk185185\\source\\repos\\Helloworld\\IntroductionToC-Sharp\\Inheritance\\Inheritance.csproj",
+        "projectUniqueName": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\Inheritance\\Inheritance.csproj",
         "projectName": "Inheritance",
-        "projectPath": "C:\\Users\\nk185185\\source\\repos\\Helloworld\\IntroductionToC-Sharp\\Inheritance\\Inheritance.csproj",
+        "projectPath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\Inheritance\\Inheritance.csproj",
         "packagesPath": "C:\\Users\\nk185185\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nk185185\\source\\repos\\Helloworld\\IntroductionToC-Sharp\\Inheritance\\obj\\",
+        "outputPath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\Inheritance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nk185185\\AppData\\Roaming\\NuGet\\NuGet.Config",

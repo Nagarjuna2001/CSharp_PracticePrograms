@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nk185185\\source\\repos\\Helloworld\\IntroductionToC-Sharp\\SortingComplexTypes\\SortingComplexTypes.csproj": {}
+    "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\SortingComplexTypes\\SortingComplexTypes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nk185185\\source\\repos\\Helloworld\\IntroductionToC-Sharp\\SortingComplexTypes\\SortingComplexTypes.csproj": {
+    "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\SortingComplexTypes\\SortingComplexTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nk185185\\source\\repos\\Helloworld\\IntroductionToC-Sharp\\SortingComplexTypes\\SortingComplexTypes.csproj",
+        "projectUniqueName": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\SortingComplexTypes\\SortingComplexTypes.csproj",
         "projectName": "SortingComplexTypes",
-        "projectPath": "C:\\Users\\nk185185\\source\\repos\\Helloworld\\IntroductionToC-Sharp\\SortingComplexTypes\\SortingComplexTypes.csproj",
+        "projectPath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\SortingComplexTypes\\SortingComplexTypes.csproj",
         "packagesPath": "C:\\Users\\nk185185\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nk185185\\source\\repos\\Helloworld\\IntroductionToC-Sharp\\SortingComplexTypes\\obj\\",
+        "outputPath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\SortingComplexTypes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nk185185\\AppData\\Roaming\\NuGet\\NuGet.Config",
