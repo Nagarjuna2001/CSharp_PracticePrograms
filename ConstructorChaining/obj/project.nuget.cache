@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "KQ56ACovDMLUWbfrZVLUYiF4mhYrcaiFn6IKVFg/Y6icJwfBm/Pa2km8w6Z8ruwnbumDDKP9riDgYUHBQ8+IZQ==",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\ConstructorChaining\\ConstructorChaining.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "zptEPDvw1/O8yrksjEoSqcmcgQhyqnU8w4FKcrawianZeZfslhncvVfVd+uTDthr+J80IPTPRAKq5NZpp7LT2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\ConstructorChaining\\ConstructorChaining.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 431295c7cf8affd1368e1e2eac3b932780b64dc3
 }
