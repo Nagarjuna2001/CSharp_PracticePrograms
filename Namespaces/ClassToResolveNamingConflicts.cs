@@ -32,8 +32,7 @@ namespace Namespaces
 
             //The other way is to use the fully qualified names while calling the methods (which have the same name)
 
-            /*bool checkIfPaymentSuccessfulBySBI = RBI_SBI.PaymentProcessing.IsPaymentSuccessful();
-            bool checkIfPaymentSuccessfulByCBI = RBI_CBI.PaymentProcessing.IsPaymentSuccessful();*/
+            
         }
     }
 }

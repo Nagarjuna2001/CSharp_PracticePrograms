@@ -6,9 +6,20 @@ namespace Dictionary
 {
     class FunctionsInDictionaryCollection
     {
+        private void GetSumAndProduct(int firstNum, int SecondNum, out int Sum, out int Product)
+        {
+            Sum = firstNum + SecondNum;
+            Product = firstNum * SecondNum;
+        }
+        private static void ChangeValue(ref int x)
+        {
+            x = 100;
+        }
         static void Main(string[] args)
         {
             //Commonly used functions present in Dictionary Collection to manipulate the customer the data present in the collection
+            int i = 0;
+            ChangeValue(ref i);
 
             Customer[] GroupOfCustomers = new Customer[5];
             FunctionsInDictionaryCollection.AddGroupOfCustomers(GroupOfCustomers);
@@ -41,11 +52,14 @@ namespace Dictionary
             if (CustomerDataDictionary.TryGetValue(TemporaryCustomerID, out Customer ExistingCustomer))
             {
                 Console.WriteLine("Details of customer with ID as {0} : Name is {1} Salary is {2}",TemporaryCustomerID, ExistingCustomer.Name, ExistingCustomer.salary);
+
             }
             else
             {
                 Console.WriteLine("Invalid ID");
             }
+
+            
 
             //Code to remove all entries in the dictionary
             CustomerDataDictionary.Clear();

@@ -43,6 +43,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodHiding", "..\MethodHi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "..\Arrays\Arrays\Arrays.csproj", "{2FF6C0A6-5FC4-46E0-AEC6-2016965C1897}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstructorChaining", "ConstructorChaining\ConstructorChaining.csproj", "{B9275DFC-F38B-46BA-9DC7-6559D0527BE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticClasses", "StaticClasses\StaticClasses.csproj", "{33F39EF7-A2F5-4129-A2C6-8C4459DB131E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +133,14 @@ Global
 		{2FF6C0A6-5FC4-46E0-AEC6-2016965C1897}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FF6C0A6-5FC4-46E0-AEC6-2016965C1897}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FF6C0A6-5FC4-46E0-AEC6-2016965C1897}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9275DFC-F38B-46BA-9DC7-6559D0527BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9275DFC-F38B-46BA-9DC7-6559D0527BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9275DFC-F38B-46BA-9DC7-6559D0527BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9275DFC-F38B-46BA-9DC7-6559D0527BE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33F39EF7-A2F5-4129-A2C6-8C4459DB131E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F39EF7-A2F5-4129-A2C6-8C4459DB131E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F39EF7-A2F5-4129-A2C6-8C4459DB131E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F39EF7-A2F5-4129-A2C6-8C4459DB131E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
