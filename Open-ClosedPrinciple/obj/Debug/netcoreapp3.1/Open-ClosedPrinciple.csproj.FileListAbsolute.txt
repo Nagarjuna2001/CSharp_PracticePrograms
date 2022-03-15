@@ -1,0 +1,14 @@
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Open-ClosedPrinciple\bin\Debug\netcoreapp3.1\Open-ClosedPrinciple.exe
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Open-ClosedPrinciple\bin\Debug\netcoreapp3.1\Open-ClosedPrinciple.deps.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Open-ClosedPrinciple\bin\Debug\netcoreapp3.1\Open-ClosedPrinciple.runtimeconfig.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Open-ClosedPrinciple\bin\Debug\netcoreapp3.1\Open-ClosedPrinciple.runtimeconfig.dev.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Open-ClosedPrinciple\bin\Debug\netcoreapp3.1\Open-ClosedPrinciple.dll
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Open-ClosedPrinciple\bin\Debug\netcoreapp3.1\Open-ClosedPrinciple.pdb
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Open-ClosedPrinciple\obj\Debug\netcoreapp3.1\Open-ClosedPrinciple.csproj.AssemblyReference.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Open-ClosedPrinciple\obj\Debug\netcoreapp3.1\Open-ClosedPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Open-ClosedPrinciple\obj\Debug\netcoreapp3.1\Open-ClosedPrinciple.AssemblyInfoInputs.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Open-ClosedPrinciple\obj\Debug\netcoreapp3.1\Open-ClosedPrinciple.AssemblyInfo.cs
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Open-ClosedPrinciple\obj\Debug\netcoreapp3.1\Open-ClosedPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Open-ClosedPrinciple\obj\Debug\netcoreapp3.1\Open-ClosedPrinciple.dll
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Open-ClosedPrinciple\obj\Debug\netcoreapp3.1\Open-ClosedPrinciple.pdb
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Open-ClosedPrinciple\obj\Debug\netcoreapp3.1\Open-ClosedPrinciple.genruntimeconfig.cache

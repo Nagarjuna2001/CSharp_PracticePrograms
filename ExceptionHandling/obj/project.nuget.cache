@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "qVuD8QSscsptwvjxeVt2aeOl0TGGY9UxiEi3+83drt95U+z9DhKLaeN5f5c4Z2+8JYrUCRlfHU1SAqxDIaJh2g==",
+  "dgSpecHash": "tlU4MQ/kckgvBXsoCg2AGWHlGUdzmQtyI0LbmaBjsiB8mXQY7OJaZRaHbf5rzUH113lbQ37WE2lGB/8rA3y2Zw==",
   "success": true,
   "projectFilePath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\ExceptionHandling\\ExceptionHandling.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\nk185185\\.nuget\\packages\\log4net\\2.0.14\\log4net.2.0.14.nupkg.sha512",
+    "C:\\Users\\nk185185\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\nk185185\\.nuget\\packages\\nlog\\4.7.14\\nlog.4.7.14.nupkg.sha512",
+    "C:\\Users\\nk185185\\.nuget\\packages\\nlog.config\\4.7.14\\nlog.config.4.7.14.nupkg.sha512",
+    "C:\\Users\\nk185185\\.nuget\\packages\\nlog.schema\\4.7.14\\nlog.schema.4.7.14.nupkg.sha512",
+    "C:\\Users\\nk185185\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\nk185185\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\nk185185\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\nk185185\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\nk185185\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

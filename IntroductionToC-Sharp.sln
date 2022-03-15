@@ -49,7 +49,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaticClasses", "StaticClas
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleResponsibilityPrinciple", "SingleResponsibilityPrinciple\SingleResponsibilityPrinciple.csproj", "{64CA115F-0897-4688-8D93-CA658BEF5558}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegregationPrinciple", "InterfaceSegregationPrinciple\InterfaceSegregationPrinciple.csproj", "{234EDE56-300A-4EAE-AE9C-D2DCA96A3BDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceSegregationPrinciple", "InterfaceSegregationPrinciple\InterfaceSegregationPrinciple.csproj", "{234EDE56-300A-4EAE-AE9C-D2DCA96A3BDA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Open-ClosedPrinciple", "Open-ClosedPrinciple\Open-ClosedPrinciple.csproj", "{69162B84-33BC-4157-8FA1-32F04A1AAAF4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiskovSubstitutionPrinciple", "LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple.csproj", "{E17A0555-2B7F-4ECA-A015-BEBCB07504B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolFormsApp", "..\..\..\Downloads\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise Files\CH04\04-15\done\SchoolApp\SchoolFormsApp\SchoolFormsApp.csproj", "{E1E5EC32-3949-4125-B992-635216224E6C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchoolLibrary", "..\..\..\Downloads\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise Files\CH04\04-15\done\SchoolApp\SchoolLibrary\SchoolLibrary.csproj", "{628F4B7A-0189-4F9C-AA28-E94F510BFDAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolLibraryUnitTest", "SchoolLibraryUnitTest\SchoolLibraryUnitTest.csproj", "{A962DD50-3201-4773-9FCA-216E761AC7BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjectionExample", "DependencyInjectionExample\DependencyInjectionExample.csproj", "{768CCAE3-9614-4CA5-A17D-3B4221BFD276}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +165,30 @@ Global
 		{234EDE56-300A-4EAE-AE9C-D2DCA96A3BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{234EDE56-300A-4EAE-AE9C-D2DCA96A3BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{234EDE56-300A-4EAE-AE9C-D2DCA96A3BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69162B84-33BC-4157-8FA1-32F04A1AAAF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69162B84-33BC-4157-8FA1-32F04A1AAAF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69162B84-33BC-4157-8FA1-32F04A1AAAF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69162B84-33BC-4157-8FA1-32F04A1AAAF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E17A0555-2B7F-4ECA-A015-BEBCB07504B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E17A0555-2B7F-4ECA-A015-BEBCB07504B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E17A0555-2B7F-4ECA-A015-BEBCB07504B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E17A0555-2B7F-4ECA-A015-BEBCB07504B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1E5EC32-3949-4125-B992-635216224E6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1E5EC32-3949-4125-B992-635216224E6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1E5EC32-3949-4125-B992-635216224E6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1E5EC32-3949-4125-B992-635216224E6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{628F4B7A-0189-4F9C-AA28-E94F510BFDAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{628F4B7A-0189-4F9C-AA28-E94F510BFDAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{628F4B7A-0189-4F9C-AA28-E94F510BFDAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{628F4B7A-0189-4F9C-AA28-E94F510BFDAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A962DD50-3201-4773-9FCA-216E761AC7BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A962DD50-3201-4773-9FCA-216E761AC7BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A962DD50-3201-4773-9FCA-216E761AC7BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A962DD50-3201-4773-9FCA-216E761AC7BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{768CCAE3-9614-4CA5-A17D-3B4221BFD276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{768CCAE3-9614-4CA5-A17D-3B4221BFD276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{768CCAE3-9614-4CA5-A17D-3B4221BFD276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{768CCAE3-9614-4CA5-A17D-3B4221BFD276}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
