@@ -10,7 +10,8 @@ namespace SingletonDesignPattern
 
         private static readonly object _lock = new object();
         private static PanCard PanCardInstance = null;
-
+        public int PanCardNumber = 123456;
+            
         public static PanCard GetInstance()
         {
             lock (_lock)
@@ -22,6 +23,10 @@ namespace SingletonDesignPattern
 
                 return PanCardInstance;
             }
+        }
+        public int GetPanCardNumber()
+        {
+            return PanCardNumber;
         }
     }
 }
