@@ -11,3 +11,4 @@ C:\Users\nk185185\source\repos\IntroductionToC-Sharp\InterfaceSegregationPrincip
 C:\Users\nk185185\source\repos\IntroductionToC-Sharp\InterfaceSegregationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.dll
 C:\Users\nk185185\source\repos\IntroductionToC-Sharp\InterfaceSegregationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.pdb
 C:\Users\nk185185\source\repos\IntroductionToC-Sharp\InterfaceSegregationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.genruntimeconfig.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\InterfaceSegregationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.csproj.AssemblyReference.cache

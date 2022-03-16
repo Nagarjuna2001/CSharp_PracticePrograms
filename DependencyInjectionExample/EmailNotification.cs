@@ -6,6 +6,8 @@ namespace DependencyInjectionExample
 {
     public class EmailNotification : IMessenger
     {
+        public EmailNotification() { }
+
         public void SendMessage()
         {
             // code to send email

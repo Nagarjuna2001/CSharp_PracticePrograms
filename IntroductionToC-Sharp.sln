@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodsInCSharp", "MethodsI
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Namespaces", "Namespaces\Namespaces.csproj", "{C300AAFA-ECAC-4B12-A60D-9AF086346533}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionariesInC-Sharp", "DictionariesInC-Sharp\DictionariesInC-Sharp.csproj", "{E88CA2AE-D728-49BC-B162-9959026DF6DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionariesInCSharp", "DictionariesInC-Sharp\DictionariesInCSharp.csproj", "{E88CA2AE-D728-49BC-B162-9959026DF6DD}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodOverloading", "MethodOverloading\MethodOverloading.csproj", "{EF4E3DB9-F5A6-42CD-8F98-A8C713368903}"
 EndProject
@@ -45,8 +45,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "..\Arrays\Arrays\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstructorChaining", "ConstructorChaining\ConstructorChaining.csproj", "{B9275DFC-F38B-46BA-9DC7-6559D0527BE8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaticClasses", "StaticClasses\StaticClasses.csproj", "{33F39EF7-A2F5-4129-A2C6-8C4459DB131E}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleResponsibilityPrinciple", "SingleResponsibilityPrinciple\SingleResponsibilityPrinciple.csproj", "{64CA115F-0897-4688-8D93-CA658BEF5558}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceSegregationPrinciple", "InterfaceSegregationPrinciple\InterfaceSegregationPrinciple.csproj", "{234EDE56-300A-4EAE-AE9C-D2DCA96A3BDA}"
@@ -61,7 +59,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchoolLibrary", "..\..\..\D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolLibraryUnitTest", "SchoolLibraryUnitTest\SchoolLibraryUnitTest.csproj", "{A962DD50-3201-4773-9FCA-216E761AC7BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjectionExample", "DependencyInjectionExample\DependencyInjectionExample.csproj", "{768CCAE3-9614-4CA5-A17D-3B4221BFD276}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInversionExample", "DependencyInjectionExample\DependencyInversionExample.csproj", "{768CCAE3-9614-4CA5-A17D-3B4221BFD276}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalaryCalculatorTestProject", "..\..\..\Downloads\Ex_Files_Csharp_TestDriven\Ex_Files_Csharp_TestDriven\Exercise Files\Ch03\03_05\Finish\SalaryCalculatorTestProject\SalaryCalculatorTestProject\SalaryCalculatorTestProject.csproj", "{047F1149-5A14-4F62-974C-23DCDB736C7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "..\..\..\Downloads\Ex_Files_Csharp_TestDriven\Ex_Files_Csharp_TestDriven\Exercise Files\Ch03\03_05\Finish\SalaryCalculatorTestProject\Calculator\Calculator.csproj", "{D17813D8-0433-4FC9-92C9-F5BA79FE7825}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaticClasses", "StaticClasses\StaticClasses.csproj", "{4266C418-631A-418B-8072-8798874D07BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "..\..\..\Downloads\Ex_Files_Csharp_TestDriven\Ex_Files_Csharp_TestDriven\Exercise Files\Ch04\04_05\Finish\Polymorphism\Polymorphism\Polymorphism.csproj", "{646B8E38-A232-4DAD-BB90-C2AC2B7A65AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolymorphismTestProject", "..\..\..\Downloads\Ex_Files_Csharp_TestDriven\Ex_Files_Csharp_TestDriven\Exercise Files\Ch04\04_05\Finish\Polymorphism\PolymorphismTestProject\PolymorphismTestProject.csproj", "{B399F4CE-589D-4778-A9FB-E7145F618E4A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryMethodPattern", "FactoryMethodPattern\FactoryMethodPattern.csproj", "{8E645EAF-E6E1-484F-A2E6-45C0205453F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonDesignPattern", "SingletonDesignPattern\SingletonDesignPattern.csproj", "{183DEA32-BB05-4C1B-800B-91F823A0D0FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPatternTest", "SingletonPatternTest\SingletonPatternTest.csproj", "{E50FBB33-6B4C-4E70-85AA-F5C319B9F5D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,10 +167,6 @@ Global
 		{B9275DFC-F38B-46BA-9DC7-6559D0527BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9275DFC-F38B-46BA-9DC7-6559D0527BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9275DFC-F38B-46BA-9DC7-6559D0527BE8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{33F39EF7-A2F5-4129-A2C6-8C4459DB131E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{33F39EF7-A2F5-4129-A2C6-8C4459DB131E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{33F39EF7-A2F5-4129-A2C6-8C4459DB131E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{33F39EF7-A2F5-4129-A2C6-8C4459DB131E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{64CA115F-0897-4688-8D93-CA658BEF5558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{64CA115F-0897-4688-8D93-CA658BEF5558}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64CA115F-0897-4688-8D93-CA658BEF5558}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -189,6 +199,38 @@ Global
 		{768CCAE3-9614-4CA5-A17D-3B4221BFD276}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{768CCAE3-9614-4CA5-A17D-3B4221BFD276}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{768CCAE3-9614-4CA5-A17D-3B4221BFD276}.Release|Any CPU.Build.0 = Release|Any CPU
+		{047F1149-5A14-4F62-974C-23DCDB736C7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{047F1149-5A14-4F62-974C-23DCDB736C7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{047F1149-5A14-4F62-974C-23DCDB736C7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{047F1149-5A14-4F62-974C-23DCDB736C7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D17813D8-0433-4FC9-92C9-F5BA79FE7825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D17813D8-0433-4FC9-92C9-F5BA79FE7825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D17813D8-0433-4FC9-92C9-F5BA79FE7825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D17813D8-0433-4FC9-92C9-F5BA79FE7825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4266C418-631A-418B-8072-8798874D07BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4266C418-631A-418B-8072-8798874D07BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4266C418-631A-418B-8072-8798874D07BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4266C418-631A-418B-8072-8798874D07BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{646B8E38-A232-4DAD-BB90-C2AC2B7A65AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{646B8E38-A232-4DAD-BB90-C2AC2B7A65AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{646B8E38-A232-4DAD-BB90-C2AC2B7A65AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{646B8E38-A232-4DAD-BB90-C2AC2B7A65AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B399F4CE-589D-4778-A9FB-E7145F618E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B399F4CE-589D-4778-A9FB-E7145F618E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B399F4CE-589D-4778-A9FB-E7145F618E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B399F4CE-589D-4778-A9FB-E7145F618E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E645EAF-E6E1-484F-A2E6-45C0205453F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E645EAF-E6E1-484F-A2E6-45C0205453F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E645EAF-E6E1-484F-A2E6-45C0205453F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E645EAF-E6E1-484F-A2E6-45C0205453F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{183DEA32-BB05-4C1B-800B-91F823A0D0FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{183DEA32-BB05-4C1B-800B-91F823A0D0FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{183DEA32-BB05-4C1B-800B-91F823A0D0FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{183DEA32-BB05-4C1B-800B-91F823A0D0FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E50FBB33-6B4C-4E70-85AA-F5C319B9F5D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E50FBB33-6B4C-4E70-85AA-F5C319B9F5D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E50FBB33-6B4C-4E70-85AA-F5C319B9F5D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E50FBB33-6B4C-4E70-85AA-F5C319B9F5D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

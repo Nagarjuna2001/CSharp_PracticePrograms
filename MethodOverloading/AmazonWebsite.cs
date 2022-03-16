@@ -1,11 +1,13 @@
 ﻿using System;
 
+//The payment option on any E-commerce website has options like net banking, COD, Debit card etc.
+//Which means the payment method is overloaded several times to perform payment function in various ways.
+
 namespace MethodOverloading
 {
-    class AmazonWebsite
+    public class AmazonWebsite
     {
-        //The payment option on any E-commerce website has options like net banking, COD, Debit card etc.
-        //Which means the payment method is overloaded several times to perform payment function in various ways.
+        public AmazonWebsite() { }
 
         private static void PaymentProcessing()
         {

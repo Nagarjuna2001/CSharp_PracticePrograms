@@ -2,28 +2,18 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Dictionary
+namespace DictionariesInCSharp
 {
-    class FunctionsInDictionaryCollection
+    public class FunctionsInDictionaryCollection
     {
-        private void GetSumAndProduct(int firstNum, int SecondNum, out int Sum, out int Product)
-        {
-            Sum = firstNum + SecondNum;
-            Product = firstNum * SecondNum;
-        }
-        private static void ChangeValue(ref int x)
-        {
-            x = 100;
-        }
         static void Main(string[] args)
         {
             //Commonly used functions present in Dictionary Collection to manipulate the customer the data present in the collection
-            int i = 0;
-            ChangeValue(ref i);
 
-            Customer[] GroupOfCustomers = new Customer[5];
-            FunctionsInDictionaryCollection.AddGroupOfCustomers(GroupOfCustomers);
+            AddCustomers customerList = new AddCustomers(5);
+            Customer[] GroupOfCustomers = customerList.AddGroupOfCustomers();
 
+            //Syntax to create a dictionary and add key value pairs in a dictionary
             Dictionary<int, Customer>  CustomerDataDictionary = new Dictionary<int, Customer>();
 
             foreach(Customer customer in GroupOfCustomers)
@@ -52,25 +42,18 @@ namespace Dictionary
             if (CustomerDataDictionary.TryGetValue(TemporaryCustomerID, out Customer ExistingCustomer))
             {
                 Console.WriteLine("Details of customer with ID as {0} : Name is {1} Salary is {2}",TemporaryCustomerID, ExistingCustomer.Name, ExistingCustomer.salary);
-
             }
             else
             {
                 Console.WriteLine("Invalid ID");
             }
 
-            
-
             //Code to remove all entries in the dictionary
             CustomerDataDictionary.Clear();
-
             Console.WriteLine(CustomerDataDictionary.Count);
 
-            Customer[] customers = new Customer[3];
-            customers[0] = GroupOfCustomers[0];
-            customers[1] = GroupOfCustomers[1];
-            customers[2] = GroupOfCustomers[2];
-
+            //Code to convert an array of type Customer into a dictionary with customer ID as key and Customer type as its associated value 
+            Customer[] customers = customerList.AddGroupOfCustomers();
             Dictionary<int, Customer> dict = customers.ToDictionary(customer => customer.ID, customer => customer);
 
             foreach (KeyValuePair<int, Customer> CustomerData in dict)
@@ -78,49 +61,6 @@ namespace Dictionary
                 Console.WriteLine("Key is {0} and value is {1}", CustomerData.Key, CustomerData.Value.Name);
             }
         }
-        private static void AddGroupOfCustomers(Customer[] GroupOfCustomers)
-        {
-            GroupOfCustomers[0] = new Customer()
-            {
-                ID = 101,
-                Name = "Steve",
-                salary = 3000
-            };
-
-            GroupOfCustomers[1] = new Customer()
-            {
-                ID = 102,
-                Name = "John",
-                salary = 4500
-            };
-
-            GroupOfCustomers[2] = new Customer()
-            {
-                ID = 103,
-                Name = "Jane",
-                salary = 4000
-            };
-
-            GroupOfCustomers[3] = new Customer()
-            {
-                ID = 104,
-                Name = "Alice",
-                salary = 7000
-            };
-
-            GroupOfCustomers[4] = new Customer()
-            {
-                ID = 105,
-                Name = "Bob",
-                salary = 5500
-            };
-        }
-    }
-
-    class Customer
-    {
-        public int ID { set; get; }
-        public string Name { set; get; }
-        public int salary { set; get; }
+        
     }
 }

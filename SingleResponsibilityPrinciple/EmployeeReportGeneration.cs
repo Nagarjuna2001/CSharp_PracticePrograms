@@ -8,8 +8,16 @@ namespace SingleResponsibilityPrinciple
     {
         public void GenerateReport(Employee employee)
         {
-            Console.WriteLine("Report of the employee passed in the function is generated");
-            Console.WriteLine("Employee name: "+employee.Employee_Name);
+            try 
+            {
+                if (employee == null) throw new NullReferenceException();
+                Console.WriteLine("Report of the employee passed in the function is generated");
+                Console.WriteLine("Employee name: "+employee.Employee_Name);
+            }
+            catch(NullReferenceException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
         }
     }
 }

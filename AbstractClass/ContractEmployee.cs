@@ -4,8 +4,9 @@ using System.Text;
 
 namespace AbstractClass
 {
-    class ContractEmployee : BaseEmployee
+    public class ContractEmployee : BaseEmployee
     {
+        public ContractEmployee(){ }
         public int HourlyPay { get; set; }
         public int TotalHoursWorked { get; set; }
 

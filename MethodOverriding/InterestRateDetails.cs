@@ -2,34 +2,7 @@
 
 namespace MethodOverriding
 {
-    class ReserveBankOfIndia
-    {
-        public virtual float GetInterestRate()
-        {
-            return 7.0f;
-        }
-    }
-    class SBI : ReserveBankOfIndia
-    {
-        public override float GetInterestRate()
-        {
-            return 7.5f;
-        }
-    }
-
-    class ICICI : ReserveBankOfIndia
-    {
-        public override float GetInterestRate()
-        {
-            return 8.5f;
-        }
-    }
-
-    class Axis : ReserveBankOfIndia
-    {
-      
-    }
-    class InterestRateDetails
+    public class InterestRateDetails
     {
         static void Main(string[] args)
         {

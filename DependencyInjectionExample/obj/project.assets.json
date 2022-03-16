@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\DependencyInjectionExample\\DependencyInjectionExample.csproj",
-      "projectName": "DependencyInjectionExample",
-      "projectPath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\DependencyInjectionExample\\DependencyInjectionExample.csproj",
+      "projectUniqueName": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\DependencyInjectionExample\\DependencyInversionExample.csproj",
+      "projectName": "DependencyInversionExample",
+      "projectPath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\DependencyInjectionExample\\DependencyInversionExample.csproj",
       "packagesPath": "C:\\Users\\nk185185\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\DependencyInjectionExample\\obj\\",
       "projectStyle": "PackageReference",

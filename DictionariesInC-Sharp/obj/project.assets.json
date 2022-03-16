@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\DictionariesInC-Sharp\\DictionariesInC-Sharp.csproj",
-      "projectName": "DictionariesInC-Sharp",
-      "projectPath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\DictionariesInC-Sharp\\DictionariesInC-Sharp.csproj",
+      "projectUniqueName": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\DictionariesInC-Sharp\\DictionariesInCSharp.csproj",
+      "projectName": "DictionariesInCSharp",
+      "projectPath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\DictionariesInC-Sharp\\DictionariesInCSharp.csproj",
       "packagesPath": "C:\\Users\\nk185185\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\DictionariesInC-Sharp\\obj\\",
       "projectStyle": "PackageReference",

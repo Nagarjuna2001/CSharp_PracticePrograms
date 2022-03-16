@@ -5,8 +5,12 @@ namespace Inheritance
    /*The basic purpose of using Mobile phone is communication. Several brands of mobile phones are 
      using this basic functionality by extending/inheriting the MobilePhone class functionality and adding their own new 
      features to their respective brands.*/
-    class MobilePhone
+    public class MobilePhone
     {
+        public MobilePhone(string message)
+        {
+            Console.WriteLine($"{message} extending Mobile Phone functionality");
+        }
         public void CommunicationFacility()
         {
             //Business logic to provide communication through phone calls, messages etc.
@@ -16,36 +20,6 @@ namespace Inheritance
         public void CameraFeaturesProvidedByMobile()
         {
             Console.WriteLine("Features related to camera are present here.");
-        }
-        
-    }
-
-    class Iphone : MobilePhone
-    {
-        public void OperatingSystemForIphones()
-        {
-            Console.WriteLine("Operating System used in Iphones is iOS");
-        }
-    }
-
-    class Oneplus : MobilePhone
-    {
-        public void OperatingSystemForOneplus()
-        {
-            Console.WriteLine("Oneplus provides Android Operating system");
-        }
-    }
-    class User
-    {
-        static void Main(string[] args)
-        {
-            Iphone AppleProduct = new Iphone();
-            AppleProduct.OperatingSystemForIphones();
-            AppleProduct.CommunicationFacility();
-
-            Oneplus OneplusProduct = new Oneplus();
-            OneplusProduct.OperatingSystemForOneplus();
-            OneplusProduct.CameraFeaturesProvidedByMobile();
         }
     }
 }

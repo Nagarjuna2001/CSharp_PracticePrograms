@@ -4,8 +4,9 @@ using System.Text;
 
 namespace AbstractClass
 {
-    class FullTimeEmployee : BaseEmployee
+    public class FullTimeEmployee : BaseEmployee
     {
+        public FullTimeEmployee() { }
         public int AnnualSalary { get; set; }
 
         public override int GetMonthlySalary()

@@ -5,7 +5,8 @@ using System.Collections.Generic;
 
 namespace Delegates
 {
-    class EmployeesPromotion
+    public delegate bool IsPromotable(Employee employee);
+    public class EmployeesPromotion
     {
         static void Main(string[] args)
         {
@@ -17,7 +18,7 @@ namespace Delegates
 
             IsPromotable isPromotable = new IsPromotable(CheckForPromotionEligibility);
 
-            Employee.CheckForPromotionEligibility(ListOfEmployees, isPromotable);
+            Employee.PrintEmployeesEligibleForPromotion(ListOfEmployees, isPromotable);
         }
 
         public static bool CheckForPromotionEligibility(Employee employee)
@@ -29,26 +30,6 @@ namespace Delegates
             else
             {
                 return false;
-            }
-        }
-    }
-
-    delegate bool IsPromotable(Employee employee);
-
-    class Employee
-    {
-        public int ID { get; set; }
-        public string Name { get; set; }
-        public int Experience { get; set; }
-
-        public static void CheckForPromotionEligibility(List<Employee> EmployeeList, IsPromotable IsEligibleToPromote)
-        {
-            foreach (Employee employee in EmployeeList)
-            {
-                if (IsEligibleToPromote(employee))
-                {
-                    Console.WriteLine(employee.Name + " is eligible for promotion.");
-                }
             }
         }
     }

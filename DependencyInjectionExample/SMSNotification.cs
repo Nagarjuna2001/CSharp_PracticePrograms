@@ -4,8 +4,10 @@ using System.Text;
 
 namespace DependencyInjectionExample
 {
-    class SMSNotification : IMessenger
+    public class SMSNotification : IMessenger
     {
+        public SMSNotification() { }
+
         public void SendMessage()
         {
             // code to send sms

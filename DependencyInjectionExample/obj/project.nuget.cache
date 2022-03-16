@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n+EIoECEdo+YxrxMwRw60wZUOxjF8BRWNlz+ftWY/tz3+1bGpFAcOn6ho7gfoEg1NC/+nmrYEmn4JNMJDxCPTA==",
+  "dgSpecHash": "gUWKVH++WeMROcqwoAhEtd7FVQlFJxJPXNz+kVY1uIEsmv56Pcy/P2347xFfdklDVtxmOkD0bTvU3aHDa3kgwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\DependencyInjectionExample\\DependencyInjectionExample.csproj",
+  "projectFilePath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\DependencyInjectionExample\\DependencyInversionExample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
