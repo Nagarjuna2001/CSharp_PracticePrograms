@@ -56,9 +56,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\Downloads\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise Files\CH04\04-15\done\SchoolApp\SchoolLibrary\SchoolLibrary.csproj">
-      <Project>{628f4b7a-0189-4f9c-aa28-e94f510bfdaf}</Project>
-      <Name>SchoolLibrary</Name>
+    <ProjectReference Include="..\SchoolLibraryUnitTesting\SchoolLibraryUnitTesting.csproj">
+      <Project>{2720d50b-bf68-4b8d-8c07-588d68db1edd}</Project>
+      <Name>SchoolLibraryUnitTesting</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />

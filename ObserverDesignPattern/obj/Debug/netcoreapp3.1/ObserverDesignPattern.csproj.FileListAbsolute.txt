@@ -1,0 +1,13 @@
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\ObserverDesignPattern\bin\Debug\netcoreapp3.1\ObserverDesignPattern.exe
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\ObserverDesignPattern\bin\Debug\netcoreapp3.1\ObserverDesignPattern.deps.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\ObserverDesignPattern\bin\Debug\netcoreapp3.1\ObserverDesignPattern.runtimeconfig.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\ObserverDesignPattern\bin\Debug\netcoreapp3.1\ObserverDesignPattern.runtimeconfig.dev.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\ObserverDesignPattern\bin\Debug\netcoreapp3.1\ObserverDesignPattern.dll
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\ObserverDesignPattern\bin\Debug\netcoreapp3.1\ObserverDesignPattern.pdb
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\ObserverDesignPattern\obj\Debug\netcoreapp3.1\ObserverDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\ObserverDesignPattern\obj\Debug\netcoreapp3.1\ObserverDesignPattern.AssemblyInfoInputs.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\ObserverDesignPattern\obj\Debug\netcoreapp3.1\ObserverDesignPattern.AssemblyInfo.cs
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\ObserverDesignPattern\obj\Debug\netcoreapp3.1\ObserverDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\ObserverDesignPattern\obj\Debug\netcoreapp3.1\ObserverDesignPattern.dll
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\ObserverDesignPattern\obj\Debug\netcoreapp3.1\ObserverDesignPattern.pdb
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\ObserverDesignPattern\obj\Debug\netcoreapp3.1\ObserverDesignPattern.genruntimeconfig.cache

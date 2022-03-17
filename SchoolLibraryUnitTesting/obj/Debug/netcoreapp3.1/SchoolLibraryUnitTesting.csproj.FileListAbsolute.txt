@@ -1,0 +1,9 @@
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\SchoolLibraryUnitTesting\bin\Debug\netcoreapp3.1\SchoolLibraryUnitTesting.deps.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\SchoolLibraryUnitTesting\bin\Debug\netcoreapp3.1\SchoolLibraryUnitTesting.dll
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\SchoolLibraryUnitTesting\bin\Debug\netcoreapp3.1\SchoolLibraryUnitTesting.pdb
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\SchoolLibraryUnitTesting\obj\Debug\netcoreapp3.1\SchoolLibraryUnitTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\SchoolLibraryUnitTesting\obj\Debug\netcoreapp3.1\SchoolLibraryUnitTesting.AssemblyInfoInputs.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\SchoolLibraryUnitTesting\obj\Debug\netcoreapp3.1\SchoolLibraryUnitTesting.AssemblyInfo.cs
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\SchoolLibraryUnitTesting\obj\Debug\netcoreapp3.1\SchoolLibraryUnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\SchoolLibraryUnitTesting\obj\Debug\netcoreapp3.1\SchoolLibraryUnitTesting.dll
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\SchoolLibraryUnitTesting\obj\Debug\netcoreapp3.1\SchoolLibraryUnitTesting.pdb
