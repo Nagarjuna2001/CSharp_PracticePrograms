@@ -4,7 +4,7 @@ using System.Text;
 
 namespace InterfaceSegregationPrinciple
 {
-    interface IPrintFaxContent
+    public interface IPrintFaxContent
     {
         bool FaxContent(string ReceivedContent);
     }

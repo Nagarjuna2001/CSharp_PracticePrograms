@@ -1,0 +1,9 @@
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\SalaryCalculatorForTesting\bin\Debug\netcoreapp3.1\SalaryCalculatorForTesting.deps.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\SalaryCalculatorForTesting\bin\Debug\netcoreapp3.1\SalaryCalculatorForTesting.dll
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\SalaryCalculatorForTesting\bin\Debug\netcoreapp3.1\SalaryCalculatorForTesting.pdb
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\SalaryCalculatorForTesting\obj\Debug\netcoreapp3.1\SalaryCalculatorForTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\SalaryCalculatorForTesting\obj\Debug\netcoreapp3.1\SalaryCalculatorForTesting.AssemblyInfoInputs.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\SalaryCalculatorForTesting\obj\Debug\netcoreapp3.1\SalaryCalculatorForTesting.AssemblyInfo.cs
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\SalaryCalculatorForTesting\obj\Debug\netcoreapp3.1\SalaryCalculatorForTesting.csproj.CoreCompileInputs.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\SalaryCalculatorForTesting\obj\Debug\netcoreapp3.1\SalaryCalculatorForTesting.dll
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\SalaryCalculatorForTesting\obj\Debug\netcoreapp3.1\SalaryCalculatorForTesting.pdb

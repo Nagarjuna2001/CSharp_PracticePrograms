@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\Open-ClosedPrinciple\\Open-ClosedPrinciple.csproj",
-      "projectName": "Open-ClosedPrinciple",
-      "projectPath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\Open-ClosedPrinciple\\Open-ClosedPrinciple.csproj",
+      "projectUniqueName": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\Open-ClosedPrinciple\\OpenClosedPrinciple.csproj",
+      "projectName": "OpenClosedPrinciple",
+      "projectPath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\Open-ClosedPrinciple\\OpenClosedPrinciple.csproj",
       "packagesPath": "C:\\Users\\nk185185\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\Open-ClosedPrinciple\\obj\\",
       "projectStyle": "PackageReference",

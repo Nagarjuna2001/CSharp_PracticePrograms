@@ -4,7 +4,7 @@ using System.Text;
 
 namespace LiskovSubstitutionPrinciple
 {
-    class TemporaryEmployee : Employee
+    public class TemporaryEmployee : Employee
     {
         public TemporaryEmployee(int id,string name) : base(id, name)
         {

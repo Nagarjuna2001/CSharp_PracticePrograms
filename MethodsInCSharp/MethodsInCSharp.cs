@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Methods
+namespace MethodsInCSharp
 {
     //MethodsInCSharp class contains methods showing the syntax of static and instance methods 
 
@@ -8,10 +8,13 @@ namespace Methods
     {
         static void Main(string[] args)
         {
+            //Calling the static methods using classname
             MethodsInCSharp.PrintOddNumbersLessThanTarget(20);
             Console.WriteLine("Addition of 10 and 20 is {0}", MethodsInCSharp.AddTwoNumbers(10, 20));
 
-            MethodsInCSharp ObjectToCallInstanceMethod = new MethodsInCSharp();
+
+            //Calling the instance methods using instance of the class
+            DivisibilityCheck ObjectToCallInstanceMethod = new DivisibilityCheck();
             ObjectToCallInstanceMethod.IsNumberDivisibleBySix(36);
         }
 
@@ -32,17 +35,6 @@ namespace Methods
             }
         }
 
-        //The below method is an example of instance method which are accessed using the instance of the class
-
-        private void IsNumberDivisibleBySix(int number)
-        {
-            if (number % 6 == 0)
-            {
-                Console.WriteLine("{0} is divisible by 6", number);
-            }
-            else { 
-                Console.WriteLine("{0} is not divisible by 6", number);
-            }
-        }
+       
     }
 }

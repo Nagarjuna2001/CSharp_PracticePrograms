@@ -4,8 +4,10 @@ using System.Text;
 
 namespace InterfaceSegregationPrinciple
 {
-    class AdvancedPrinter : IPrintScanContent,IPrintFaxContent
+    public class AdvancedPrinter : IPrintScanContent,IPrintFaxContent
     {
+        public AdvancedPrinter() { }
+
         public bool PrintContent(string Content)
         {
             Console.WriteLine("Content is printed using advanced printer");

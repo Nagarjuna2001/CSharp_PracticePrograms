@@ -4,7 +4,7 @@ using System.Text;
 
 namespace LiskovSubstitutionPrinciple
 {
-    class PermanentEmployee : Employee
+    public class PermanentEmployee : Employee
     {
         public PermanentEmployee(int id, string name) : base(id, name)
         {

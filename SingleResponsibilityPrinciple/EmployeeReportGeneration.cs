@@ -4,8 +4,10 @@ using System.Text;
 
 namespace SingleResponsibilityPrinciple
 {
-    class EmployeeReportGeneration
+    public class EmployeeReportGeneration
     {
+        public EmployeeReportGeneration() { }
+
         public void GenerateReport(Employee employee)
         {
             try 

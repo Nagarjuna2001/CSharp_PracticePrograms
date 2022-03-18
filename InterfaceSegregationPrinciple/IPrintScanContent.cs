@@ -4,7 +4,7 @@ using System.Text;
 
 namespace InterfaceSegregationPrinciple
 {
-    interface IPrintScanContent
+    public interface IPrintScanContent
     {
         bool PrintContent(string content);
         bool ScanContent(string content);

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Open_ClosedPrinciple
+namespace OpenClosedPrinciple
 {
     public abstract class Employee
     {

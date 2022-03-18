@@ -4,7 +4,7 @@ using System.Text;
 
 namespace LiskovSubstitutionPrinciple.Interfaces
 {
-    interface IEmployeeBonus
+    public interface IEmployeeBonus
     {
         decimal CalculateBonus(decimal salary);
     }

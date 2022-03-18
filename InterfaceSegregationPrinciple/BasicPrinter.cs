@@ -4,8 +4,10 @@ using System.Text;
 
 namespace InterfaceSegregationPrinciple
 {
-    class BasicPrinter : IPrintScanContent
+    public class BasicPrinter : IPrintScanContent
     {
+        public BasicPrinter() { }
+
         public bool PrintContent(string Content)
         {
             Console.WriteLine("Content is printed using Basic printer");

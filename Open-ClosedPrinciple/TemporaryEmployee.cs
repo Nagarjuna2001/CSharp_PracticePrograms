@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Open_ClosedPrinciple
+namespace OpenClosedPrinciple
 {
-    class TemporaryEmployee : Employee
+    public class TemporaryEmployee : Employee
     {
         public TemporaryEmployee(int id,string name) : base(id, name)
         {

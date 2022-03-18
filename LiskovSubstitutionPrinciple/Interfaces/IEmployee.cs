@@ -4,7 +4,7 @@ using System.Text;
 
 namespace LiskovSubstitutionPrinciple.Interfaces
 {
-    interface IEmployee
+    public interface IEmployee
     {
         int ID { get; set; }
         string Name { get; set; }

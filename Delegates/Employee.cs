@@ -6,6 +6,7 @@ namespace Delegates
 {
     public class Employee
     {
+        public Employee() { }
         public int ID { get; set; }
         public string Name { get; set; }
         public int Experience { get; set; }

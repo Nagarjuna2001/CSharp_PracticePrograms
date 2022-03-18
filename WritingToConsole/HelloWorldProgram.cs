@@ -2,7 +2,7 @@
 
 namespace WritingToConsole
 {
-    class HelloWorldProgram
+    public class HelloWorldProgram
     {
         static void Main(string[] args)
         {

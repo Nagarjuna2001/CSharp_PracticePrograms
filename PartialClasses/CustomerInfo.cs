@@ -2,12 +2,6 @@
 
 namespace PartialClasses
 {
-    public partial class CustomerName
-    {
-        public string CustomerFirstName { set; get; }
-        public string CustomerLastName { set; get; }
-    }
-
     class CustomerInfo
     {
         static void Main(string[] args)

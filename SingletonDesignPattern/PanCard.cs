@@ -16,12 +16,13 @@ namespace SingletonDesignPattern
         {
             lock (_lock)
             {
-                if (PanCardInstance == null)
+                return (PanCardInstance == null) ? new PanCard() : PanCardInstance;
+                /*if (PanCardInstance == null)
                 {
                     PanCardInstance = new PanCard();
                 }
 
-                return PanCardInstance;
+                return PanCardInstance;*/
             }
         }
         public int GetPanCardNumber()

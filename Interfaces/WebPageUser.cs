@@ -2,7 +2,7 @@
 
 namespace Interfaces
 {
-    class WebPageUser
+    public class WebPageUser
     {
         static void Main(string[] args)
         {
