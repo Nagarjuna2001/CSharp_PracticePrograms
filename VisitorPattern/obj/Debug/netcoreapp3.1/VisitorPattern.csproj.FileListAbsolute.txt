@@ -1,0 +1,13 @@
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\VisitorPattern\bin\Debug\netcoreapp3.1\VisitorPattern.exe
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\VisitorPattern\bin\Debug\netcoreapp3.1\VisitorPattern.deps.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\VisitorPattern\bin\Debug\netcoreapp3.1\VisitorPattern.runtimeconfig.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\VisitorPattern\bin\Debug\netcoreapp3.1\VisitorPattern.runtimeconfig.dev.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\VisitorPattern\bin\Debug\netcoreapp3.1\VisitorPattern.dll
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\VisitorPattern\bin\Debug\netcoreapp3.1\VisitorPattern.pdb
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\VisitorPattern\obj\Debug\netcoreapp3.1\VisitorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\VisitorPattern\obj\Debug\netcoreapp3.1\VisitorPattern.AssemblyInfoInputs.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\VisitorPattern\obj\Debug\netcoreapp3.1\VisitorPattern.AssemblyInfo.cs
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\VisitorPattern\obj\Debug\netcoreapp3.1\VisitorPattern.csproj.CoreCompileInputs.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\VisitorPattern\obj\Debug\netcoreapp3.1\VisitorPattern.dll
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\VisitorPattern\obj\Debug\netcoreapp3.1\VisitorPattern.pdb
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\VisitorPattern\obj\Debug\netcoreapp3.1\VisitorPattern.genruntimeconfig.cache

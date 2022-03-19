@@ -1,0 +1,14 @@
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\IteratorPattern\bin\Debug\netcoreapp3.1\IteratorPattern.exe
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\IteratorPattern\bin\Debug\netcoreapp3.1\IteratorPattern.deps.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\IteratorPattern\bin\Debug\netcoreapp3.1\IteratorPattern.runtimeconfig.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\IteratorPattern\bin\Debug\netcoreapp3.1\IteratorPattern.runtimeconfig.dev.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\IteratorPattern\bin\Debug\netcoreapp3.1\IteratorPattern.dll
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\IteratorPattern\bin\Debug\netcoreapp3.1\IteratorPattern.pdb
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\IteratorPattern\obj\Debug\netcoreapp3.1\IteratorPattern.csproj.AssemblyReference.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\IteratorPattern\obj\Debug\netcoreapp3.1\IteratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\IteratorPattern\obj\Debug\netcoreapp3.1\IteratorPattern.AssemblyInfoInputs.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\IteratorPattern\obj\Debug\netcoreapp3.1\IteratorPattern.AssemblyInfo.cs
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\IteratorPattern\obj\Debug\netcoreapp3.1\IteratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\IteratorPattern\obj\Debug\netcoreapp3.1\IteratorPattern.dll
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\IteratorPattern\obj\Debug\netcoreapp3.1\IteratorPattern.pdb
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\IteratorPattern\obj\Debug\netcoreapp3.1\IteratorPattern.genruntimeconfig.cache
