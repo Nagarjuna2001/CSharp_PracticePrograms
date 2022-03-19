@@ -1,0 +1,13 @@
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\PublicAccessModifier\bin\Debug\netcoreapp3.1\PrivateAccessModifier.exe
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\PublicAccessModifier\bin\Debug\netcoreapp3.1\PrivateAccessModifier.deps.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\PublicAccessModifier\bin\Debug\netcoreapp3.1\PrivateAccessModifier.runtimeconfig.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\PublicAccessModifier\bin\Debug\netcoreapp3.1\PrivateAccessModifier.runtimeconfig.dev.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\PublicAccessModifier\bin\Debug\netcoreapp3.1\PrivateAccessModifier.dll
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\PublicAccessModifier\bin\Debug\netcoreapp3.1\PrivateAccessModifier.pdb
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\PublicAccessModifier\obj\Debug\netcoreapp3.1\PrivateAccessModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\PublicAccessModifier\obj\Debug\netcoreapp3.1\PrivateAccessModifier.AssemblyInfoInputs.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\PublicAccessModifier\obj\Debug\netcoreapp3.1\PrivateAccessModifier.AssemblyInfo.cs
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\PublicAccessModifier\obj\Debug\netcoreapp3.1\PrivateAccessModifier.csproj.CoreCompileInputs.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\PublicAccessModifier\obj\Debug\netcoreapp3.1\PrivateAccessModifier.dll
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\PublicAccessModifier\obj\Debug\netcoreapp3.1\PrivateAccessModifier.pdb
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\PublicAccessModifier\obj\Debug\netcoreapp3.1\PrivateAccessModifier.genruntimeconfig.cache

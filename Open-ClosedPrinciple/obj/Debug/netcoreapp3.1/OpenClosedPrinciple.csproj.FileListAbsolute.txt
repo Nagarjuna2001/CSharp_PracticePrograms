@@ -11,3 +11,4 @@ C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Open-ClosedPrinciple\obj\De
 C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Open-ClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.dll
 C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Open-ClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.pdb
 C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Open-ClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.genruntimeconfig.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\Open-ClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.csproj.AssemblyReference.cache

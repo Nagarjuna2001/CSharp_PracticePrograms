@@ -12,7 +12,7 @@ namespace SchoolLibraryUnitTest
         {
             var schoolLibrary = new School();
             float averageValue = schoolLibrary.AverageThreeScores(4.0f, 5.4f, 5.6f);
-            Assert.AreEqual(5.0f,averageValue);
+            Assert.AreEqual(5.0f, averageValue);
 
         }
         [TestMethod]
@@ -25,8 +25,8 @@ namespace SchoolLibraryUnitTest
         [TestMethod]
         public void ConstructorInitializingTest()
         {
-            var schoolLibrary = new School("HPS","555-678-456");
-            Assert.AreEqual(schoolLibrary.Name,"HPS");
+            var schoolLibrary = new School("HPS", "555-678-456");
+            Assert.AreEqual(schoolLibrary.Name, "HPS");
         }
     }
 }

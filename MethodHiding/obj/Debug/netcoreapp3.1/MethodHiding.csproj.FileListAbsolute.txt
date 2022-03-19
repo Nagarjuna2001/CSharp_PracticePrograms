@@ -11,3 +11,4 @@ C:\Users\nk185185\source\repos\IntroductionToC-Sharp\MethodHiding\obj\Debug\netc
 C:\Users\nk185185\source\repos\IntroductionToC-Sharp\MethodHiding\obj\Debug\netcoreapp3.1\MethodHiding.dll
 C:\Users\nk185185\source\repos\IntroductionToC-Sharp\MethodHiding\obj\Debug\netcoreapp3.1\MethodHiding.pdb
 C:\Users\nk185185\source\repos\IntroductionToC-Sharp\MethodHiding\obj\Debug\netcoreapp3.1\MethodHiding.genruntimeconfig.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\MethodHiding\obj\Debug\netcoreapp3.1\MethodHiding.csproj.AssemblyReference.cache

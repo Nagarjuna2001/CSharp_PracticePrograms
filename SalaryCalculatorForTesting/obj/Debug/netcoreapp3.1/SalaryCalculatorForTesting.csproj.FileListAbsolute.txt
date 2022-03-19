@@ -7,3 +7,4 @@ C:\Users\nk185185\source\repos\IntroductionToC-Sharp\SalaryCalculatorForTesting\
 C:\Users\nk185185\source\repos\IntroductionToC-Sharp\SalaryCalculatorForTesting\obj\Debug\netcoreapp3.1\SalaryCalculatorForTesting.csproj.CoreCompileInputs.cache
 C:\Users\nk185185\source\repos\IntroductionToC-Sharp\SalaryCalculatorForTesting\obj\Debug\netcoreapp3.1\SalaryCalculatorForTesting.dll
 C:\Users\nk185185\source\repos\IntroductionToC-Sharp\SalaryCalculatorForTesting\obj\Debug\netcoreapp3.1\SalaryCalculatorForTesting.pdb
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\SalaryCalculatorForTesting\obj\Debug\netcoreapp3.1\SalaryCalculatorForTesting.csproj.AssemblyReference.cache

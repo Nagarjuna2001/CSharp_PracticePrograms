@@ -1,0 +1,9 @@
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\SchoolLibrary\bin\Debug\netcoreapp3.1\SchoolLibrary.deps.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\SchoolLibrary\bin\Debug\netcoreapp3.1\SchoolLibrary.dll
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\SchoolLibrary\bin\Debug\netcoreapp3.1\SchoolLibrary.pdb
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\SchoolLibrary\obj\Debug\netcoreapp3.1\SchoolLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\SchoolLibrary\obj\Debug\netcoreapp3.1\SchoolLibrary.AssemblyInfoInputs.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\SchoolLibrary\obj\Debug\netcoreapp3.1\SchoolLibrary.AssemblyInfo.cs
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\SchoolLibrary\obj\Debug\netcoreapp3.1\SchoolLibrary.csproj.CoreCompileInputs.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\SchoolLibrary\obj\Debug\netcoreapp3.1\SchoolLibrary.dll
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\SchoolLibrary\obj\Debug\netcoreapp3.1\SchoolLibrary.pdb

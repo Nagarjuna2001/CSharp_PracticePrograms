@@ -11,3 +11,4 @@ C:\Users\nk185185\source\repos\IntroductionToC-Sharp\DecoratorPattern\obj\Debug\
 C:\Users\nk185185\source\repos\IntroductionToC-Sharp\DecoratorPattern\obj\Debug\netcoreapp3.1\DecoratorPattern.dll
 C:\Users\nk185185\source\repos\IntroductionToC-Sharp\DecoratorPattern\obj\Debug\netcoreapp3.1\DecoratorPattern.pdb
 C:\Users\nk185185\source\repos\IntroductionToC-Sharp\DecoratorPattern\obj\Debug\netcoreapp3.1\DecoratorPattern.genruntimeconfig.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\DecoratorPattern\obj\Debug\netcoreapp3.1\DecoratorPattern.csproj.AssemblyReference.cache

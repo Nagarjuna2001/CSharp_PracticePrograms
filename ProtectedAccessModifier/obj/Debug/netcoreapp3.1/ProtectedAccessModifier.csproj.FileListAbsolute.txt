@@ -1,0 +1,13 @@
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\ProtectedAccessModifier\bin\Debug\netcoreapp3.1\ProtectedAccessModifier.exe
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\ProtectedAccessModifier\bin\Debug\netcoreapp3.1\ProtectedAccessModifier.deps.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\ProtectedAccessModifier\bin\Debug\netcoreapp3.1\ProtectedAccessModifier.runtimeconfig.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\ProtectedAccessModifier\bin\Debug\netcoreapp3.1\ProtectedAccessModifier.runtimeconfig.dev.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\ProtectedAccessModifier\bin\Debug\netcoreapp3.1\ProtectedAccessModifier.dll
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\ProtectedAccessModifier\bin\Debug\netcoreapp3.1\ProtectedAccessModifier.pdb
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\ProtectedAccessModifier\obj\Debug\netcoreapp3.1\ProtectedAccessModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\ProtectedAccessModifier\obj\Debug\netcoreapp3.1\ProtectedAccessModifier.AssemblyInfoInputs.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\ProtectedAccessModifier\obj\Debug\netcoreapp3.1\ProtectedAccessModifier.AssemblyInfo.cs
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\ProtectedAccessModifier\obj\Debug\netcoreapp3.1\ProtectedAccessModifier.csproj.CoreCompileInputs.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\ProtectedAccessModifier\obj\Debug\netcoreapp3.1\ProtectedAccessModifier.dll
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\ProtectedAccessModifier\obj\Debug\netcoreapp3.1\ProtectedAccessModifier.pdb
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\ProtectedAccessModifier\obj\Debug\netcoreapp3.1\ProtectedAccessModifier.genruntimeconfig.cache

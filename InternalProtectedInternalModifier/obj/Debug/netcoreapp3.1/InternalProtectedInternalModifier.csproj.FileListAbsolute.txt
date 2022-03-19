@@ -1,0 +1,9 @@
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\InternalProtectedInternalModifier\bin\Debug\netcoreapp3.1\InternalProtectedInternalModifier.deps.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\InternalProtectedInternalModifier\bin\Debug\netcoreapp3.1\InternalProtectedInternalModifier.dll
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\InternalProtectedInternalModifier\bin\Debug\netcoreapp3.1\InternalProtectedInternalModifier.pdb
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\InternalProtectedInternalModifier\obj\Debug\netcoreapp3.1\InternalProtectedInternalModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\InternalProtectedInternalModifier\obj\Debug\netcoreapp3.1\InternalProtectedInternalModifier.AssemblyInfoInputs.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\InternalProtectedInternalModifier\obj\Debug\netcoreapp3.1\InternalProtectedInternalModifier.AssemblyInfo.cs
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\InternalProtectedInternalModifier\obj\Debug\netcoreapp3.1\InternalProtectedInternalModifier.csproj.CoreCompileInputs.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\InternalProtectedInternalModifier\obj\Debug\netcoreapp3.1\InternalProtectedInternalModifier.dll
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\InternalProtectedInternalModifier\obj\Debug\netcoreapp3.1\InternalProtectedInternalModifier.pdb

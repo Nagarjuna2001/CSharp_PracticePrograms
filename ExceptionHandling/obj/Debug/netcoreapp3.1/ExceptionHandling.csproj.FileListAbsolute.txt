@@ -31,5 +31,4 @@ C:\Users\nk185185\source\repos\IntroductionToC-Sharp\ExceptionHandling\bin\Debug
 C:\Users\nk185185\source\repos\IntroductionToC-Sharp\ExceptionHandling\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
 C:\Users\nk185185\source\repos\IntroductionToC-Sharp\ExceptionHandling\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
 C:\Users\nk185185\source\repos\IntroductionToC-Sharp\ExceptionHandling\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\nk185185\source\repos\IntroductionToC-Sharp\ExceptionHandling\bin\Debug\netcoreapp3.1\NLog.config
 C:\Users\nk185185\source\repos\IntroductionToC-Sharp\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.csproj.AssemblyReference.cache

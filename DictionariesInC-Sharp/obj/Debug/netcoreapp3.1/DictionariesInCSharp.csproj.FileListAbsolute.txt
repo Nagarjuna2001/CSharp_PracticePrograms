@@ -11,3 +11,4 @@ C:\Users\nk185185\source\repos\IntroductionToC-Sharp\DictionariesInC-Sharp\obj\D
 C:\Users\nk185185\source\repos\IntroductionToC-Sharp\DictionariesInC-Sharp\obj\Debug\netcoreapp3.1\DictionariesInCSharp.dll
 C:\Users\nk185185\source\repos\IntroductionToC-Sharp\DictionariesInC-Sharp\obj\Debug\netcoreapp3.1\DictionariesInCSharp.pdb
 C:\Users\nk185185\source\repos\IntroductionToC-Sharp\DictionariesInC-Sharp\obj\Debug\netcoreapp3.1\DictionariesInCSharp.genruntimeconfig.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\DictionariesInC-Sharp\obj\Debug\netcoreapp3.1\DictionariesInCSharp.csproj.AssemblyReference.cache
