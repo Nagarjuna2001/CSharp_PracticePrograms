@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BFEdRGvPDV9feLGHpKtvd7DpLPO9qpJNBitCTGvzQTFzJls1VFzYNMXctjzsOQt9f4VEEPGtSGc+DdaMlifRjA==",
+  "dgSpecHash": "iY7J6dD4hHyTB6qQUmy3Lx+akTV++eMTGxK4rwXhbrcxRNr44DvXpbx8dG+OjfREvi79Zs5AFi7PDLep1TaQ9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\FactoryMethodPattern\\FactoryMethodPattern.csproj",
+  "projectFilePath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\DesignPatterns\\FactoryMethodPattern\\FactoryMethodPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

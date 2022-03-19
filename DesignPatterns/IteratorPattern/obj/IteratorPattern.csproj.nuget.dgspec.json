@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\IteratorPattern\\IteratorPattern.csproj": {}
+    "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\DesignPatterns\\IteratorPattern\\IteratorPattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\IteratorPattern\\IteratorPattern.csproj": {
+    "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\DesignPatterns\\IteratorPattern\\IteratorPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\IteratorPattern\\IteratorPattern.csproj",
+        "projectUniqueName": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\DesignPatterns\\IteratorPattern\\IteratorPattern.csproj",
         "projectName": "IteratorPattern",
-        "projectPath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\IteratorPattern\\IteratorPattern.csproj",
+        "projectPath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\DesignPatterns\\IteratorPattern\\IteratorPattern.csproj",
         "packagesPath": "C:\\Users\\nk185185\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\IteratorPattern\\obj\\",
+        "outputPath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\DesignPatterns\\IteratorPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nk185185\\AppData\\Roaming\\NuGet\\NuGet.Config",

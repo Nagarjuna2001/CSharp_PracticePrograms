@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HNECGGLeDqom9nYZg4PBUeYdWujUTN7EI/3Lovo259hHjIUXGYic/pbQhwkZL5tuyybfKYoisT6w/x0CBUF0cQ==",
+  "dgSpecHash": "PD74YicDMvaB2DF/Qbppu5LWolq4n4JoY3M1krzFq2NEUbdxMKHcUI5m+ceDQd8iLNCNCYvBQaH0iuf4UstKxg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\IteratorPattern\\IteratorPattern.csproj",
+  "projectFilePath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\DesignPatterns\\IteratorPattern\\IteratorPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

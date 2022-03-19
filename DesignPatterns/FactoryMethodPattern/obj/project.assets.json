@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\FactoryMethodPattern\\FactoryMethodPattern.csproj",
+      "projectUniqueName": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\DesignPatterns\\FactoryMethodPattern\\FactoryMethodPattern.csproj",
       "projectName": "FactoryMethodPattern",
-      "projectPath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\FactoryMethodPattern\\FactoryMethodPattern.csproj",
+      "projectPath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\DesignPatterns\\FactoryMethodPattern\\FactoryMethodPattern.csproj",
       "packagesPath": "C:\\Users\\nk185185\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\FactoryMethodPattern\\obj\\",
+      "outputPath": "C:\\Users\\nk185185\\source\\repos\\IntroductionToC-Sharp\\DesignPatterns\\FactoryMethodPattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nk185185\\AppData\\Roaming\\NuGet\\NuGet.Config",
