@@ -1,0 +1,17 @@
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\AbstractFactoryPattern\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\AbstractFactoryPattern\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.AssemblyInfoInputs.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\AbstractFactoryPattern\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.AssemblyInfo.cs
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\AbstractFactoryPattern\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\DesignPatterns\AbstractFactoryPattern\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\DesignPatterns\AbstractFactoryPattern\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.AssemblyInfoInputs.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\DesignPatterns\AbstractFactoryPattern\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.AssemblyInfo.cs
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\DesignPatterns\AbstractFactoryPattern\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\DesignPatterns\AbstractFactoryPattern\bin\Debug\netcoreapp3.1\AbstractFactoryPattern.exe
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\DesignPatterns\AbstractFactoryPattern\bin\Debug\netcoreapp3.1\AbstractFactoryPattern.deps.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\DesignPatterns\AbstractFactoryPattern\bin\Debug\netcoreapp3.1\AbstractFactoryPattern.runtimeconfig.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\DesignPatterns\AbstractFactoryPattern\bin\Debug\netcoreapp3.1\AbstractFactoryPattern.runtimeconfig.dev.json
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\DesignPatterns\AbstractFactoryPattern\bin\Debug\netcoreapp3.1\AbstractFactoryPattern.dll
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\DesignPatterns\AbstractFactoryPattern\bin\Debug\netcoreapp3.1\AbstractFactoryPattern.pdb
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\DesignPatterns\AbstractFactoryPattern\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.dll
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\DesignPatterns\AbstractFactoryPattern\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.pdb
+C:\Users\nk185185\source\repos\IntroductionToC-Sharp\DesignPatterns\AbstractFactoryPattern\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.genruntimeconfig.cache

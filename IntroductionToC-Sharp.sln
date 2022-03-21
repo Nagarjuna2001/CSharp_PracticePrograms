@@ -105,6 +105,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "..\..\..\Do
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolymorphismTestProject", "..\..\..\Downloads\Ex_Files_Csharp_TestDriven\Ex_Files_Csharp_TestDriven\Exercise Files\Ch04\04_05\Finish\Polymorphism\PolymorphismTestProject\PolymorphismTestProject.csproj", "{B399F4CE-589D-4778-A9FB-E7145F618E4A}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactoryPattern", "DesignPatterns\AbstractFactoryPattern\AbstractFactoryPattern.csproj", "{43A4D89D-E661-44E4-A440-5450FE5752EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -295,6 +297,10 @@ Global
 		{B399F4CE-589D-4778-A9FB-E7145F618E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B399F4CE-589D-4778-A9FB-E7145F618E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B399F4CE-589D-4778-A9FB-E7145F618E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43A4D89D-E661-44E4-A440-5450FE5752EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A4D89D-E661-44E4-A440-5450FE5752EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A4D89D-E661-44E4-A440-5450FE5752EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A4D89D-E661-44E4-A440-5450FE5752EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -329,6 +335,7 @@ Global
 		{30D4FC9B-0138-4AB5-93E1-324AF093E682} = {3201CEF5-BF25-4CA2-84A8-FDD60E32ACAC}
 		{9A7F9ACD-174A-4CB8-823F-62F8D771FDD1} = {3201CEF5-BF25-4CA2-84A8-FDD60E32ACAC}
 		{95E6C809-7FAF-4371-A5C4-EB84A04AC1D5} = {3201CEF5-BF25-4CA2-84A8-FDD60E32ACAC}
+		{43A4D89D-E661-44E4-A440-5450FE5752EC} = {668037A7-61C5-47FE-8E90-1E71A65B00B0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A5648E9F-3CFB-41B7-BAA9-67D15DFC4738}
