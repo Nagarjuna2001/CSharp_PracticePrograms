@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SingletonDesignPattern
 {
-    public class PanCard
+    public sealed class PanCard
     {
         private PanCard() { }
 

@@ -15,7 +15,7 @@ namespace LiskovSubstitutionPrinciple
             List<Employee> EmployeeList = new List<Employee>();
             EmployeeList.Add(permanent_employee);
             EmployeeList.Add(temporary_employee);
-
+           
             Console.WriteLine("List of employees who are eligible for bonus");
 
             foreach (Employee employee in EmployeeList)
